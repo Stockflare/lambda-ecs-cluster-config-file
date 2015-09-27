@@ -1,0 +1,5 @@
+config_file:
+  build: .
+  command: dotenv puma
+  volumes:
+    - .:/stockflare

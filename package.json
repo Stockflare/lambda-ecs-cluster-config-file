@@ -1,6 +1,6 @@
 {
-  "name": "lambda-ecs-config-file",
-  "description": "Provide AWS ECS based scheduler",
+  "name": "lambda-ecs-cluster-config-file",
+  "description": "Provide ECS Cluster config files",
   "version": "0.0.1",
   "private": "true",
   "dependencies": {

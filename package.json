@@ -1,5 +1,5 @@
 {
-  "name": "lambda-ecs-config-files",
+  "name": "lambda-ecs-config-file",
   "description": "Provide AWS ECS based scheduler",
   "version": "0.0.1",
   "private": "true",
